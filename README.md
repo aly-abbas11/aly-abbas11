@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!-- TECH_UPDATE_START -->
+### Tech update - July 30, 2026
+
+**Stacked PRs are now live on GitHub**
+
+Link: https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/
+Score: 74 points on Hacker News
+
+<!-- TECH_UPDATE_END -->
