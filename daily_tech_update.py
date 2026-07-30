@@ -2,6 +2,7 @@ import os
 import json
 import re
 import random
+import html
 import urllib.request
 import urllib.error
 from datetime import datetime
@@ -17,14 +18,20 @@ TECH_KEYWORDS = [
 ]
 
 STORIES_TO_SCAN = 30
+SNIPPET_MAX_LENGTH = 220
 
 START_MARKER = "<!-- TECH_UPDATE_START -->"
 END_MARKER = "<!-- TECH_UPDATE_END -->"
 
+REQUEST_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (compatible; readme-bot/1.0)"
+}
+
 
 def fetch_json(url):
     try:
-        with urllib.request.urlopen(url, timeout=10) as response:
+        req = urllib.request.Request(url, headers=REQUEST_HEADERS)
+        with urllib.request.urlopen(req, timeout=10) as response:
             return json.loads(response.read().decode())
     except urllib.error.URLError as e:
         print(f"Network error fetching {url}: {e}")
@@ -32,6 +39,40 @@ def fetch_json(url):
     except Exception as e:
         print(f"Error fetching {url}: {e}")
         return None
+
+
+def fetch_description(url):
+    """Pulls the page's own preview description (og:description or meta description)."""
+    try:
+        req = urllib.request.Request(url, headers=REQUEST_HEADERS)
+        with urllib.request.urlopen(req, timeout=8) as response:
+            raw = response.read(200000)  # only read the first chunk, description is always near the top
+            body = raw.decode("utf-8", errors="ignore")
+    except Exception as e:
+        print(f"Could not fetch description from {url}: {e}")
+        return None
+
+    patterns = [
+        r'<meta[^>]+property=["\']og:description["\'][^>]+content=["\'](.*?)["\']',
+        r'<meta[^>]+content=["\'](.*?)["\'][^>]+property=["\']og:description["\']',
+        r'<meta[^>]+name=["\']description["\'][^>]+content=["\'](.*?)["\']',
+        r'<meta[^>]+content=["\'](.*?)["\'][^>]+name=["\']description["\']',
+    ]
+
+    for pattern in patterns:
+        match = re.search(pattern, body, re.IGNORECASE)
+        if match:
+            text = html.unescape(match.group(1)).strip()
+            if text:
+                return text
+
+    return None
+
+
+def truncate(text, max_length):
+    if len(text) <= max_length:
+        return text
+    return text[:max_length].rsplit(" ", 1)[0] + "..."
 
 
 def get_tech_story():
@@ -50,31 +91,48 @@ def get_tech_story():
         score = item.get("score", 0)
 
         if any(keyword in title.lower() for keyword in TECH_KEYWORDS):
-            candidates.append({"title": title, "url": url, "score": score})
+            candidates.append({"title": title, "url": url, "score": score, "has_url": "url" in item})
 
     if not candidates:
         top_item = fetch_json(HN_ITEM_URL.format(story_ids[0]))
         if not top_item:
             return None
-        return {
+        candidates = [{
             "title": top_item.get("title", "Untitled"),
             "url": top_item.get("url", f"https://news.ycombinator.com/item?id={story_ids[0]}"),
             "score": top_item.get("score", 0),
-        }
+            "has_url": "url" in top_item,
+        }]
 
     candidates.sort(key=lambda c: c["score"], reverse=True)
     top_pool = candidates[:5] if len(candidates) >= 5 else candidates
-    return random.choice(top_pool)
+    chosen = random.choice(top_pool)
+
+    if chosen["has_url"]:
+        chosen["description"] = fetch_description(chosen["url"])
+    else:
+        chosen["description"] = None
+
+    return chosen
 
 
 def build_section(story):
     date_str = datetime.now().strftime("%B %d, %Y")
-    return (
-        f"### Tech update - {date_str}\n\n"
-        f"**{story['title']}**\n\n"
-        f"Link: {story['url']}\n"
-        f"Score: {story['score']} points on Hacker News\n"
-    )
+    lines = [
+        f"### Tech update - {date_str}",
+        "",
+        f"**{story['title']}**",
+        "",
+    ]
+
+    if story.get("description"):
+        lines.append(truncate(story["description"], SNIPPET_MAX_LENGTH))
+        lines.append("")
+
+    lines.append(f"Read more: {story['url']}")
+    lines.append(f"Score: {story['score']} points on Hacker News")
+
+    return "\n".join(lines)
 
 
 def update_readme(story):
