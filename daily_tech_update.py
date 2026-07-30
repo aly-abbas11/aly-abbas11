@@ -42,11 +42,10 @@ def fetch_json(url):
 
 
 def fetch_description(url):
-    """Pulls the page's own preview description (og:description or meta description)."""
     try:
         req = urllib.request.Request(url, headers=REQUEST_HEADERS)
         with urllib.request.urlopen(req, timeout=8) as response:
-            raw = response.read(200000)  # only read the first chunk, description is always near the top
+            raw = response.read(200000) 
             body = raw.decode("utf-8", errors="ignore")
     except Exception as e:
         print(f"Could not fetch description from {url}: {e}")
