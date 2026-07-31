@@ -22,7 +22,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-_Loading fresh signals... Automation in progress._
+### Tech update - July 31, 2026
+
+**Bad Apple but It's Traceroute**
+
+This was unavoidable, given my post from the other day about how to make traceroute display (almost) arbitrary strings.
+
+Read more: https://jssfr.de/2026-07-27-bad-apple-but-traceroute.html
+Score: 112 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
