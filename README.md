@@ -22,7 +22,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-_Loading..._
+### Tech update - August 01, 2026
+
+**Google fixed more Chrome bugs in June than over the past two years, thanks to AI**
+
+Chrome uses Gemini AI to automate vulnerability discovery, triage, and patching, accelerating updates to match modern security risks.
+
+Read more: https://blog.google/security/chrome-stronger-with-every-update/
+Score: 503 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
