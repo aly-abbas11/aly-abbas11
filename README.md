@@ -44,7 +44,7 @@ Score: 503 points on Hacker News
 > Recent thoughts and technical write-ups
 
 <!-- BLOG-POST-LIST:START -->
-_Awaiting blog telemetry..._
+- [How to Automate Your GitHub Profile &amp; Build a Live Job Radar with Python](https://dev.to/alyabbas11/how-to-automate-your-github-profile-build-a-live-job-radar-with-python-4g57)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
