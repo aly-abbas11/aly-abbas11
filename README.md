@@ -22,14 +22,12 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - August 01, 2026
+### Tech update - August 02, 2026
 
-**Google fixed more Chrome bugs in June than over the past two years, thanks to AI**
+**MkLinux and the pimped-out Apple Workgroup Server 9150**
 
-Chrome uses Gemini AI to automate vulnerability discovery, triage, and patching, accelerating updates to match modern security risks.
-
-Read more: https://blog.google/security/chrome-stronger-with-every-update/
-Score: 503 points on Hacker News
+Read more: http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html
+Score: 50 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
