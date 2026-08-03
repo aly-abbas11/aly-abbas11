@@ -22,12 +22,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - August 02, 2026
+### Tech update - August 03, 2026
 
-**MkLinux and the pimped-out Apple Workgroup Server 9150**
+**AI migrated legacy COBOL programs to Java, bugs included**
 
-Read more: http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html
-Score: 50 points on Hacker News
+Migration of legacy COBOL programs to Java requires extensive testing to ensure correct functionality. This effort is often complicated by the lack of test data and the difficulty of validating all corner cases. In this...
+
+Read more: https://arxiv.org/abs/2607.28271
+Score: 64 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
