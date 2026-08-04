@@ -22,14 +22,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - August 03, 2026
+### Tech update - August 04, 2026
 
-**AI migrated legacy COBOL programs to Java, bugs included**
+**Bonsai: Janestreet's UI Library**
 
-Migration of legacy COBOL programs to Java requires extensive testing to ensure correct functionality. This effort is often complicated by the lack of test data and the difficulty of validating all corner cases. In this...
+A library for building dynamic webapps, using Js_of_ocaml - janestreet/bonsai
 
-Read more: https://arxiv.org/abs/2607.28271
-Score: 64 points on Hacker News
+Read more: https://github.com/janestreet/bonsai
+Score: 348 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
