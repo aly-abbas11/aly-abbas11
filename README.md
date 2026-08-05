@@ -22,14 +22,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - August 04, 2026
+### Tech update - August 05, 2026
 
-**Bonsai: Janestreet's UI Library**
+**AI fuels more than half of cybercrime in Africa as scams surge – Interpol**
 
-A library for building dynamic webapps, using Js_of_ocaml - janestreet/bonsai
+Artificial intelligence is now powering more than half of reported cybercrime across Africa, allowing criminals to launch faster, more convincing and larger-scale attacks, according to INTERPOL
 
-Read more: https://github.com/janestreet/bonsai
-Score: 348 points on Hacker News
+Read more: https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/
+Score: 223 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
