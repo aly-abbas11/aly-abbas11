@@ -22,14 +22,12 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - August 05, 2026
+### Tech update - August 06, 2026
 
-**AI fuels more than half of cybercrime in Africa as scams surge – Interpol**
+**Position: LLMs Can't Jump**
 
-Artificial intelligence is now powering more than half of reported cybercrime across Africa, allowing criminals to launch faster, more convincing and larger-scale attacks, according to INTERPOL
-
-Read more: https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/
-Score: 223 points on Hacker News
+Read more: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt
+Score: 272 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
