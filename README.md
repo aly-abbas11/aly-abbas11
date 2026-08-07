@@ -22,12 +22,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - August 06, 2026
+### Tech update - August 07, 2026
 
-**Position: LLMs Can't Jump**
+**AMD acquires Taalas to boost inference performance by etching models in silicon**
 
-Read more: https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt
-Score: 272 points on Hacker News
+Early tech demos show model-specific integrated circuits churning out up to 17,000 tokens a second
+
+Read more: https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344
+Score: 587 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
