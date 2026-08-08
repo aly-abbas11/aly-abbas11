@@ -22,14 +22,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - August 07, 2026
+### Tech update - August 08, 2026
 
-**AMD acquires Taalas to boost inference performance by etching models in silicon**
+**Show HN: Wyzer Programming Language**
 
-Early tech demos show model-specific integrated circuits churning out up to 17,000 tokens a second
+The Wyzer Programming Language. Contribute to Wyzer-Lang/wyzer development by creating an account on GitHub.
 
-Read more: https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344
-Score: 587 points on Hacker News
+Read more: https://github.com/Wyzer-Lang/wyzer
+Score: 190 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
