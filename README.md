@@ -22,14 +22,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - August 08, 2026
+### Tech update - August 09, 2026
 
-**Show HN: Wyzer Programming Language**
+**“Code was never the hard part” is an insult to all programmers**
 
-The Wyzer Programming Language. Contribute to Wyzer-Lang/wyzer development by creating an account on GitHub.
+The software development profession is in the midst of upheaval. Nobody knows how the AI revolution will play out in the end, but it is c...
 
-Read more: https://github.com/Wyzer-Lang/wyzer
-Score: 190 points on Hacker News
+Read more: https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers
+Score: 696 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
