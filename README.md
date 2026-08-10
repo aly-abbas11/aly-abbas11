@@ -22,14 +22,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - August 09, 2026
+### Tech update - August 10, 2026
 
-**“Code was never the hard part” is an insult to all programmers**
+**I made tinnitus my friend, then it disappeared [video]**
 
-The software development profession is in the midst of upheaval. Nobody knows how the AI revolution will play out in the end, but it is c...
+Exploring the world of sounds and the passion behind myNoise, with Dr. Ir. Stéphane Pigeon
 
-Read more: https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers
-Score: 696 points on Hacker News
+Read more: https://mynoise.net/vlog.php?ep=20260803
+Score: 119 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
