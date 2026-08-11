@@ -67,7 +67,7 @@ Score: 293 points on Hacker News
 
 <div align="center">
 
-<img src="./profile-3d-contrib/PASTE_3D_FILENAME.svg" width="90%" alt="3D Isometric Skyline of my Commits" />
+<img src="./profile-3d-contrib/profile-season-animate.svg" width="90%" alt="3D Isometric Skyline of my Commits" />
 
 </div>
 
@@ -77,9 +77,10 @@ Score: 293 points on Hacker News
 
 <div align="center">
 
-[![StudyFlow](https://img.shields.io/badge/STUDYFLOW-000000?style=for-the-badge&logoColor=D4AF37&labelColor=000000)](PASTE_STUDYFLOW_LINK)
-[![Discord Clone Next](https://img.shields.io/badge/DISCORD%20CLONE-000000?style=for-the-badge&logoColor=D4AF37&labelColor=000000)](PASTE_DISCORDCLONE_LINK)
-[![CodePulse](https://img.shields.io/badge/CODEPULSE-000000?style=for-the-badge&logoColor=D4AF37&labelColor=000000)](PASTE_CODEPULSE_LINK)
+[![SecureScan AI](https://img.shields.io/badge/SECURESCAN%20AI-000000?style=for-the-badge&logoColor=D4AF37&labelColor=000000)](https://github.com/aly-abbas11/SecureScan-AI)
+[![StudyFlow](https://img.shields.io/badge/STUDYFLOW-000000?style=for-the-badge&logoColor=D4AF37&labelColor=000000)](https://github.com/aly-abbas11/StudyFlow-Academic-Momentum)
+[![Discord Clone Next](https://img.shields.io/badge/DISCORD%20CLONE-000000?style=for-the-badge&logoColor=D4AF37&labelColor=000000)](https://github.com/aly-abbas11/Discord-Clone-Next)
+[![CodePulse](https://img.shields.io/badge/CODEPULSE-000000?style=for-the-badge&logoColor=D4AF37&labelColor=000000)](https://github.com/aly-abbas11/CodePulse-Collaborative-IDE)
 
 </div>
 
