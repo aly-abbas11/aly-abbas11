@@ -8,7 +8,7 @@
 
 <br/>
 
-**I turn codebases into shipped, tested products.** QA Engineer who builds AI tools and full-stack apps, automates away repetitive work with GitHub Actions, and documents everything so others can run it.
+**I turn codebases into shipped, tested products.** AI Product Engineer who builds AI tools and full-stack apps, automates away repetitive work with GitHub Actions, and documents everything so others can run it.
 
 <br/>
 
