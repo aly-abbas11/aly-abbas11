@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:D4AF37&height=220&section=header&text=ALY%20ABBAS%20SHAH&fontSize=55&fontColor=D4AF37&fontAlignY=35&desc=QA%20Engineer%20%7C%20AI%20%7C%20Full-Stack%20%7C%20Automation&descAlignY=55&descSize=20&descColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:D4AF37&height=220&section=header&text=ALY%20ABBAS%20SHAH&fontSize=55&fontColor=D4AF37&fontAlignY=35&desc=AI%20Product%20Engineer%20%7C%20Full-Stack%20%7C%20Automation&descAlignY=55&descSize=20&descColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&pause=1200&color=D4AF37&background=00000000&center=true&vCenter=true&width=750&lines=QA+Engineer+%40+Zepiq+Labs;Building+Job-Hunter-AI+%E2%80%94+automated+job+radar;CS+%40+NASTP+Air+University+%27+28;Islamabad%2C+Pakistan" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&pause=1200&color=D4AF37&background=00000000&center=true&vCenter=true&width=750&lines=AI+Product+Engineer+%40+Zepiq+Labs;Building+Job-Hunter-AI+%E2%80%94+automated+job+radar;CS+%40+NASTP+Air+University+%27+28;Islamabad%2C+Pakistan" alt="Typing SVG" />
 
 <br/>
 
@@ -23,7 +23,7 @@
 
 ## 🙋 ABOUT ME
 
-> **Quality Assurance Engineer** at Zepiq Labs with hands-on CS background (NASTP Air University, class of '28). I build with **Python, JavaScript/TypeScript, React, FastAPI, Node.js, and cloud deployments (Vercel, Koyeb)**. My focus: delivering **tested, deployed, documented** software — AI systems, full-stack apps, and the automation that keeps them alive.
+> **AI Product Engineer** at Zepiq Labs with hands-on CS background (NASTP Air University, class of '28). I build with **Python, JavaScript/TypeScript, React, FastAPI, Node.js, and cloud deployments (Vercel, Koyeb)**. My focus: delivering **tested, deployed, documented** software — AI systems, full-stack apps, and the automation that keeps them alive.
 
 **Currently building:** [Job-Hunter-AI](https://github.com/aly-abbas11/Job-Hunter-AI) — a fully automated remote-jobs & internships radar that scrapes the web, filters by relevance, and posts results via GitHub Actions every day.
 
