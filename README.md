@@ -122,7 +122,7 @@ Score: 293 points on Hacker News
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=000000)](https://linkedin.com/in/alyabbas11)
 [![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=000000)](https://github.com/aly-abbas11)
-[![Email](https://img.shields.io/badge/EMAIL-ME-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=000000)](mailto:forworkuse10@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-ME-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=000000)](mailto:alyabbas101@gmail.com)
 [![Dev.to](https://img.shields.io/badge/DEV.TO-000000?style=for-the-badge&logo=dev.to&logoColor=D4AF37&labelColor=000000)](https://dev.to/alyabbas11)
 
 <br/>
