@@ -21,7 +21,7 @@
 
 <br/>
 
-## 🙋 ABOUT ME
+## ABOUT ME
 
 > **AI Product Engineer** at Zepiq Labs with hands-on CS background (NASTP Air University, class of '28). I build with **Python, JavaScript/TypeScript, React, FastAPI, Node.js, and cloud deployments (Vercel, Koyeb)**. My focus: delivering **tested, deployed, documented** software — AI systems, full-stack apps, and the automation that keeps them alive.
 
@@ -29,14 +29,14 @@
 
 <br/>
 
-## 🚀 FEATURED WORK
+## FEATURED WORK
 
 <div align="center">
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**SecureScan AI**](https://github.com/aly-abbas11/SecureScan-AI) <br/> 🔴 **LIVE** → [securescan-ai.vercel.app](https://securescan-ai.vercel.app) | AI-powered C/C++ vulnerability scanner — CodeBERT + BiLSTM + MLP, **F1: 0.9252** | Python, PyTorch, FastAPI, React |
-| [**Job-Hunter-AI**](https://github.com/aly-abbas11/Job-Hunter-AI) <br/> 🟢 auto-updates daily | Automated remote job radar — scrapes, filters, ranks & posts jobs with a GitHub Action | Python, GitHub Actions |
+| [**SecureScan AI**](https://github.com/aly-abbas11/SecureScan-AI) <br/> **LIVE** → [securescan-ai.vercel.app](https://securescan-ai.vercel.app) | AI-powered C/C++ vulnerability scanner — CodeBERT + BiLSTM + MLP, **F1: 0.9252** | Python, PyTorch, FastAPI, React |
+| [**Job-Hunter-AI**](https://github.com/aly-abbas11/Job-Hunter-AI) <br/> auto-updates daily | Automated remote job radar — scrapes, filters, ranks & posts jobs with a GitHub Action | Python, GitHub Actions |
 | [**WritingStyleAI**](https://github.com/aly-abbas11/WritingStyleAI) | Personal AI ghostwriter that learns YOUR voice from your typing — Style DNA + RAG | Python, Groq/Ollama/OpenAI |
 | [**Discord Clone**](https://github.com/aly-abbas11/Discord-Clone-Next) | Real-time full-stack chat: servers, channels, Google auth, live messaging | Next.js, Prisma, Clerk, Socket.io |
 | [**StudyFlow**](https://github.com/aly-abbas11/StudyFlow-Academic-Momentum) | Academic task manager with streaks and weekly analytics | Node.js, Express |
@@ -46,7 +46,7 @@
 
 <br/>
 
-## ⚙️ TODAY'S SIGNAL
+## TODAY'S SIGNAL
 
 <div align="center">
 
@@ -68,7 +68,7 @@ Score: 293 points on Hacker News
 
 <br/>
 
-## 📡 LATEST TRANSMISSIONS
+## LATEST TRANSMISSIONS
 
 > Recent thoughts and technical write-ups
 
@@ -78,14 +78,14 @@ Score: 293 points on Hacker News
 
 <br/>
 
-## 🛠️ AUTOMATION IN ACTION
+## AUTOMATION IN ACTION
 
 > This profile updates itself, every day — the same engineering discipline I bring to products.
 
 - **Contribution Snake** — regenerated daily via GitHub Actions
 - **3D Activity Map** — rebuilt nightly from commit history
-- **Daily Hacker News digest** — the ⚙️ section above
-- **Dev.to feed** — the 📡 section above
+- **Daily Hacker News digest** — the TODAY'S SIGNAL section above
+- **Dev.to feed** — the LATEST TRANSMISSIONS section above
 
 <div align="center">
 
@@ -105,7 +105,7 @@ Score: 293 points on Hacker News
 
 <br/>
 
-## 📊 THE NUMBERS
+## THE NUMBERS
 
 <div align="center">
 
@@ -116,7 +116,7 @@ Score: 293 points on Hacker News
 
 <br/>
 
-## 🌐 CONNECT
+## CONNECT
 
 <div align="center">
 
