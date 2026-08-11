@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:D4AF37&height=220&section=header&text=ALY%20ABBAS%20SHAH&fontSize=55&fontColor=D4AF37&fontAlignY=35&desc=CS%20Student%20%7C%20Developer%20%7C%20Future%20Founder&descAlignY=55&descSize=20&descColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:D4AF37&height=220&section=header&text=ALY%20ABBAS%20SHAH&fontSize=55&fontColor=D4AF37&fontAlignY=35&desc=QA%20Engineer%20%7C%20AI%20%7C%20Full-Stack%20%7C%20Automation&descAlignY=55&descSize=20&descColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&pause=1200&color=D4AF37&background=00000000&center=true&vCenter=true&width=750&lines=Building+one+commit+at+a+time;QA+Engineer+%40+Zepiq+Labs;Future+Software+House+Founder;NASTP+Air+University+%7C+CS+%2728" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=24&pause=1200&color=D4AF37&background=00000000&center=true&vCenter=true&width=750&lines=QA+Engineer+%40+Zepiq+Labs;Building+Job-Hunter-AI+%E2%80%94+automated+job+radar;CS+%40+NASTP+Air+University+%27+28;Islamabad%2C+Pakistan" alt="Typing SVG" />
+
+<br/>
+
+**I turn codebases into shipped, tested products.** QA Engineer who builds AI tools and full-stack apps, automates away repetitive work with GitHub Actions, and documents everything so others can run it.
 
 <br/>
 
@@ -17,7 +21,32 @@
 
 <br/>
 
-## TODAY'S SIGNAL
+## 🙋 ABOUT ME
+
+> **Quality Assurance Engineer** at Zepiq Labs with hands-on CS background (NASTP Air University, class of '28). I build with **Python, JavaScript/TypeScript, React, FastAPI, Node.js, and cloud deployments (Vercel, Koyeb)**. My focus: delivering **tested, deployed, documented** software — AI systems, full-stack apps, and the automation that keeps them alive.
+
+**Currently building:** [Job-Hunter-AI](https://github.com/aly-abbas11/Job-Hunter-AI) — a fully automated remote-jobs & internships radar that scrapes the web, filters by relevance, and posts results via GitHub Actions every day.
+
+<br/>
+
+## 🚀 FEATURED WORK
+
+<div align="center">
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**SecureScan AI**](https://github.com/aly-abbas11/SecureScan-AI) <br/> 🔴 **LIVE** → [securescan-ai.vercel.app](https://securescan-ai.vercel.app) | AI-powered C/C++ vulnerability scanner — CodeBERT + BiLSTM + MLP, **F1: 0.9252** | Python, PyTorch, FastAPI, React |
+| [**Job-Hunter-AI**](https://github.com/aly-abbas11/Job-Hunter-AI) <br/> 🟢 auto-updates daily | Automated remote job radar — scrapes, filters, ranks & posts jobs with a GitHub Action | Python, GitHub Actions |
+| [**WritingStyleAI**](https://github.com/aly-abbas11/WritingStyleAI) | Personal AI ghostwriter that learns YOUR voice from your typing — Style DNA + RAG | Python, Groq/Ollama/OpenAI |
+| [**Discord Clone**](https://github.com/aly-abbas11/Discord-Clone-Next) | Real-time full-stack chat: servers, channels, Google auth, live messaging | Next.js, Prisma, Clerk, Socket.io |
+| [**StudyFlow**](https://github.com/aly-abbas11/StudyFlow-Academic-Momentum) | Academic task manager with streaks and weekly analytics | Node.js, Express |
+| [**CodePulse**](https://github.com/aly-abbas11/CodePulse-Collaborative-IDE) | In-browser collaborative IDE with multi-user live code execution | Node.js, Socket.io |
+
+</div>
+
+<br/>
+
+## ⚙️ TODAY'S SIGNAL
 
 <div align="center">
 
@@ -39,7 +68,7 @@ Score: 293 points on Hacker News
 
 <br/>
 
-## LATEST TRANSMISSIONS
+## 📡 LATEST TRANSMISSIONS
 
 > Recent thoughts and technical write-ups
 
@@ -49,7 +78,14 @@ Score: 293 points on Hacker News
 
 <br/>
 
-## LIVE ACTIVITY
+## 🛠️ AUTOMATION IN ACTION
+
+> This profile updates itself, every day — the same engineering discipline I bring to products.
+
+- **Contribution Snake** — regenerated daily via GitHub Actions
+- **3D Activity Map** — rebuilt nightly from commit history
+- **Daily Hacker News digest** — the ⚙️ section above
+- **Dev.to feed** — the 📡 section above
 
 <div align="center">
 
@@ -61,10 +97,6 @@ Score: 293 points on Hacker News
 
 </div>
 
-<br/>
-
-## 3D ACTIVITY MAP
-
 <div align="center">
 
 <img src="./profile-3d-contrib/profile-season-animate.svg" width="90%" alt="3D Isometric Skyline of my Commits" />
@@ -73,20 +105,7 @@ Score: 293 points on Hacker News
 
 <br/>
 
-## THE WORK
-
-<div align="center">
-
-[![SecureScan AI](https://img.shields.io/badge/SECURESCAN%20AI-000000?style=for-the-badge&logoColor=D4AF37&labelColor=000000)](https://github.com/aly-abbas11/SecureScan-AI)
-[![StudyFlow](https://img.shields.io/badge/STUDYFLOW-000000?style=for-the-badge&logoColor=D4AF37&labelColor=000000)](https://github.com/aly-abbas11/StudyFlow-Academic-Momentum)
-[![Discord Clone Next](https://img.shields.io/badge/DISCORD%20CLONE-000000?style=for-the-badge&logoColor=D4AF37&labelColor=000000)](https://github.com/aly-abbas11/Discord-Clone-Next)
-[![CodePulse](https://img.shields.io/badge/CODEPULSE-000000?style=for-the-badge&logoColor=D4AF37&labelColor=000000)](https://github.com/aly-abbas11/CodePulse-Collaborative-IDE)
-
-</div>
-
-<br/>
-
-## THE NUMBERS
+## 📊 THE NUMBERS
 
 <div align="center">
 
@@ -97,10 +116,14 @@ Score: 293 points on Hacker News
 
 <br/>
 
+## 🌐 CONNECT
+
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=000000)](https://linkedin.com/in/alyabbas11)
 [![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=000000)](https://github.com/aly-abbas11)
+[![Email](https://img.shields.io/badge/EMAIL-ME-000000?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=000000)](mailto:forworkuse10@gmail.com)
+[![Dev.to](https://img.shields.io/badge/DEV.TO-000000?style=for-the-badge&logo=dev.to&logoColor=D4AF37&labelColor=000000)](https://dev.to/alyabbas11)
 
 <br/>
 
