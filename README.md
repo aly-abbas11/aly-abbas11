@@ -73,6 +73,7 @@ Score: 599 points on Hacker News
 > Recent thoughts and technical write-ups
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Built an AI That Detects C/C++ Security Vulnerabilities &lpar;F1 0.925&rpar;](https://dev.to/alyabbas11/how-i-built-an-ai-that-detects-cc-security-vulnerabilities-f1-0925-4ifp)
 - [How to Automate Your GitHub Profile &amp; Build a Live Job Radar with Python](https://dev.to/alyabbas11/how-to-automate-your-github-profile-build-a-live-job-radar-with-python-4g57)
 <!-- BLOG-POST-LIST:END -->
 
