@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - August 11, 2026
+### Tech update - August 12, 2026
 
-**Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots**
+**Stealing Reasoning Traces from Proprietary LLM APIs**
 
-An open 45M-parameter model for tool calling, device use, and structured extraction. Needle 2 runs as a 14 MB binary in 28 MB of session RAM.
+Encrypted chain-of-thought blocks returned by Anthropic, OpenAI and Google APIs are interchangeable across sessions, users and models. We exploit this to decode hidden reasoning at scale.
 
-Read more: https://cactuscompute.com/needle
-Score: 293 points on Hacker News
+Read more: https://stolen-thoughts.com/
+Score: 599 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
