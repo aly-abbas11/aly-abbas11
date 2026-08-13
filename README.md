@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - August 12, 2026
+### Tech update - August 13, 2026
 
-**Stealing Reasoning Traces from Proprietary LLM APIs**
+**HTML over WebSockets: real-time SPAs with barely any JavaScript**
 
-Encrypted chain-of-thought blocks returned by Anthropic, OpenAI and Google APIs are interchangeable across sessions, users and models. We exploit this to decode hidden reasoning at scale.
+Building a SPA (Single-page Application) is a complex puzzle: a JavaScript framework that draws the view, an API serving JSON, and 2 independent…
 
-Read more: https://stolen-thoughts.com/
-Score: 599 points on Hacker News
+Read more: https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/
+Score: 185 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
