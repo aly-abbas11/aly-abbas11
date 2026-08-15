@@ -51,12 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - August 14, 2026
+### Tech update - August 15, 2026
 
-**How Organizations Use AI: Evidence from ChatGPT [pdf]**
+**AI by Hand**
 
-Read more: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf
-Score: 97 points on Hacker News
+Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
+
+Read more: https://www.byhand.ai/
+Score: 272 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
