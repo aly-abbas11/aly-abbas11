@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - August 15, 2026
+### Tech update - August 16, 2026
 
-**AI by Hand**
+**AI has access to a vastly larger working memory than the human brain**
 
-Math, Algorithms, Architectures, by hand. Click to read AI by Hand ✍️, by Prof. Tom Yeh, a Substack publication with tens of thousands of subscribers.
+The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.
 
-Read more: https://www.byhand.ai/
-Score: 272 points on Hacker News
+Read more: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians
+Score: 469 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
