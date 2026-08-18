@@ -51,12 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - August 17, 2026
+### Tech update - August 18, 2026
 
-**Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee**
+**AI;DR (AI; Didn't Read)**
 
-Read more: https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/
-Score: 192 points on Hacker News
+I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and I'm not alone). That's why I love the AI;DR acronym as my new solution for ignoring the walls of slop.
+
+Read more: https://www.rickmanelius.com/p/aidr-ai-didnt-read
+Score: 782 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
