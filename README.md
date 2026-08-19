@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - August 18, 2026
+### Tech update - August 19, 2026
 
-**AI;DR (AI; Didn't Read)**
+**Apple announces changes for apps in the European Union**
 
-I'm about as pro-AI as you can be, but this is becoming a pet peeve of mine (and I'm not alone). That's why I love the AI;DR acronym as my new solution for ignoring the walls of slop.
+Apple today announced changes to its business terms for apps in the European Union, following close collaboration with the European Commission.
 
-Read more: https://www.rickmanelius.com/p/aidr-ai-didnt-read
-Score: 782 points on Hacker News
+Read more: https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/
+Score: 151 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
