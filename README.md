@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - August 20, 2026
+### Tech update - August 21, 2026
 
-**Geolocating a random island using geometry and CUDA programming**
+**Show HN: Huzzah – a novel approach to coding with AI**
 
-just a blog
+A new experimental way to code with AI
 
-Read more: https://yassa9.github.io/osint/gralhix-004/
-Score: 457 points on Hacker News
+Read more: https://www.danielvaughn.dev/posts/huzzah/
+Score: 283 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
