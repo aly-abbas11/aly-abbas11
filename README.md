@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - August 21, 2026
+### Tech update - August 22, 2026
 
-**Show HN: Huzzah – a novel approach to coding with AI**
+**I'm becoming AI-blind**
 
-A new experimental way to code with AI
+Recently I've been catching myself having these little moments at work, when I'm trying to read a document someone has sent me and my brain somehow refuses to analyze it. It feels like I'm reading it, but I'm unable to...
 
-Read more: https://www.danielvaughn.dev/posts/huzzah/
-Score: 283 points on Hacker News
+Read more: https://cymerys.com/w/im-becoming-ai-blind
+Score: 333 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
