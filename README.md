@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - August 22, 2026
+### Tech update - August 23, 2026
 
-**I'm becoming AI-blind**
+**A week of using Codex more than Claude**
 
-Recently I've been catching myself having these little moments at work, when I'm trying to read a document someone has sent me and my brain somehow refuses to analyze it. It feels like I'm reading it, but I'm unable to...
+Claude goes above and beyond what is asked and guesses what you might want. Codex does what you tell it and stops at the first sign that it might be done. Ten impressions from a week of using Codex more.
 
-Read more: https://cymerys.com/w/im-becoming-ai-blind
-Score: 333 points on Hacker News
+Read more: https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/
+Score: 179 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
