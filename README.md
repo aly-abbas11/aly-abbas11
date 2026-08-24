@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - August 23, 2026
+### Tech update - August 24, 2026
 
-**A week of using Codex more than Claude**
+**A website for debloated open source alternatives**
 
-Claude goes above and beyond what is asked and guesses what you might want. Codex does what you tell it and stops at the first sign that it might be done. Ten impressions from a week of using Codex more.
+open-source replacements for bloated vendor software
 
-Read more: https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/
-Score: 179 points on Hacker News
+Read more: https://debloat.dev/
+Score: 312 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
