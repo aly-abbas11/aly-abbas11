@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - August 24, 2026
+### Tech update - August 25, 2026
 
-**A website for debloated open source alternatives**
+**iCloud+ Hide My Email addresses will remain on icloud.com**
 
-open-source replacements for bloated vendor software
+Starting later this year, new Sign in with Apple addresses, previously issued on privaterelay.appleid.com, will be issued on private.icloud.com. Existing addresses on privaterelay.appleid.com will continue to work and...
 
-Read more: https://debloat.dev/
-Score: 312 points on Hacker News
+Read more: https://developer.apple.com/news/?id=1ptvdtcm
+Score: 388 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
