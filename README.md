@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - August 25, 2026
+### Tech update - August 26, 2026
 
-**iCloud+ Hide My Email addresses will remain on icloud.com**
+**Show HN: I made a Raspberry with Qwen my local car AI**
 
-Starting later this year, new Sign in with Apple addresses, previously issued on privaterelay.appleid.com, will be issued on private.icloud.com. Existing addresses on privaterelay.appleid.com will continue to work and...
+Your car as a chat-room agent: Raspberry Pi 5 + dashcam + local AI. CodeWatch's sibling for the garage. - ThinkOffApp/CarWatch
 
-Read more: https://developer.apple.com/news/?id=1ptvdtcm
-Score: 388 points on Hacker News
+Read more: https://github.com/ThinkOffApp/CarWatch
+Score: 128 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
