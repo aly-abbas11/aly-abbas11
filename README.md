@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - August 26, 2026
+### Tech update - August 27, 2026
 
-**Show HN: I made a Raspberry with Qwen my local car AI**
+**Nvidia projects $673B in sales as AI demand widens**
 
-Your car as a chat-room agent: Raspberry Pi 5 + dashcam + local AI. CodeWatch's sibling for the garage. - ThinkOffApp/CarWatch
+Nvidia forecasts 70% fiscal 2028 growth, implying $673 billion in sales as demand expands beyond hyperscalers despite supply constraints.
 
-Read more: https://github.com/ThinkOffApp/CarWatch
-Score: 128 points on Hacker News
+Read more: https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/
+Score: 61 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
