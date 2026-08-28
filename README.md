@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - August 27, 2026
+### Tech update - August 28, 2026
 
-**Nvidia projects $673B in sales as AI demand widens**
+**HTTPX2 – A next-generation HTTP client for Python**
 
-Nvidia forecasts 70% fiscal 2028 growth, implying $673 billion in sales as demand expands beyond hyperscalers despite supply constraints.
+A next generation HTTP client for Python. 🦋. Contribute to pydantic/httpx2 development by creating an account on GitHub.
 
-Read more: https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/
-Score: 61 points on Hacker News
+Read more: https://github.com/pydantic/httpx2
+Score: 92 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
