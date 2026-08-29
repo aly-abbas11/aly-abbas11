@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - August 28, 2026
+### Tech update - August 29, 2026
 
-**HTTPX2 – A next-generation HTTP client for Python**
+**I accidentally turned LLM memory into program analysis**
 
-A next generation HTTP client for Python. 🦋. Contribute to pydantic/httpx2 development by creating an account on GitHub.
+Why I stopped trying to give LLM agents a better memory and instead built Lemmalog, a Datalog engine that maintains an agent's knowledge as analysis state, with provenance, retractions and incremental evaluation, plus...
 
-Read more: https://github.com/pydantic/httpx2
-Score: 92 points on Hacker News
+Read more: https://pwning.systems/posts/llm-memory-program-analysis/
+Score: 178 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
