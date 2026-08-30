@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - August 29, 2026
+### Tech update - August 30, 2026
 
-**I accidentally turned LLM memory into program analysis**
+**California lawmakers unanimously pass Linux exemption from age-verification law**
 
-Why I stopped trying to give LLM agents a better memory and instead built Lemmalog, a Datalog engine that maintains an agent's knowledge as analysis state, with provenance, retractions and incremental evaluation, plus...
+AB 1856 excludes open-source operating systems from the upcoming Digital Age Assurance Act.
 
-Read more: https://pwning.systems/posts/llm-memory-program-analysis/
-Score: 178 points on Hacker News
+Read more: https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt
+Score: 342 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
