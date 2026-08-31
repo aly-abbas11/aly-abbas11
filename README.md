@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - August 30, 2026
+### Tech update - August 31, 2026
 
-**California lawmakers unanimously pass Linux exemption from age-verification law**
+**Breaking Claude Code Opus 5 Auto Mode**
 
-AB 1856 excludes open-source operating systems from the upcoming Digital Age Assurance Act.
+In this post, we explore how a simple website summary request hijacks Claude Code Opus 5 in Auto Mode and achieves code execution with 60-80% attack success …
 
-Read more: https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt
-Score: 342 points on Hacker News
+Read more: https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/
+Score: 158 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
