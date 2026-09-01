@@ -51,14 +51,12 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - August 31, 2026
+### Tech update - September 01, 2026
 
-**Breaking Claude Code Opus 5 Auto Mode**
+**Terence Tao explains 6 essential mathematical concepts [video]**
 
-In this post, we explore how a simple website summary request hijacks Claude Code Opus 5 in Auto Mode and achieves code execution with 60-80% attack success …
-
-Read more: https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/
-Score: 158 points on Hacker News
+Read more: https://www.youtube.com/watch?v=OOMx2BHHWtE
+Score: 449 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
