@@ -51,12 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 01, 2026
+### Tech update - September 02, 2026
 
-**Terence Tao explains 6 essential mathematical concepts [video]**
+**Atlas: A World Model for Spatial Intelligence**
 
-Read more: https://www.youtube.com/watch?v=OOMx2BHHWtE
-Score: 449 points on Hacker News
+Introducing Atlas, our new omni world model for spatial intelligence.
+
+Read more: https://www.worldlabs.ai/blog/atlas
+Score: 227 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
