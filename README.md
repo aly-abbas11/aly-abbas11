@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 02, 2026
+### Tech update - September 03, 2026
 
-**Atlas: A World Model for Spatial Intelligence**
+**Aging brains blend memories together instead of just forgetting them**
 
-Introducing Atlas, our new omni world model for spatial intelligence.
+Aging brains may mix memories up, not just lose them, replaying experiences too broadly to keep the details straight.
 
-Read more: https://www.worldlabs.ai/blog/atlas
-Score: 227 points on Hacker News
+Read more: https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/
+Score: 295 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
