@@ -51,14 +51,12 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 03, 2026
+### Tech update - September 04, 2026
 
-**Aging brains blend memories together instead of just forgetting them**
+**The largest electric aircraft just flew [video]**
 
-Aging brains may mix memories up, not just lose them, replaying experiences too broadly to keep the details straight.
-
-Read more: https://studyfinds.com/aging-brains-blend-memories-together-instead-of-forgetting-them-study-finds/
-Score: 295 points on Hacker News
+Read more: https://www.youtube.com/watch?v=nM86DBOqgPM
+Score: 346 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
