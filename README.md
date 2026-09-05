@@ -51,12 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 04, 2026
+### Tech update - September 05, 2026
 
-**The largest electric aircraft just flew [video]**
+**The Rust React Compiler is now native in Vite**
 
-Read more: https://www.youtube.com/watch?v=nM86DBOqgPM
-Score: 346 points on Hacker News
+The transition to the Rust version of the React Compiler for the 1,036-file React Router codebase resulted in a significant speed increase, improving build times from 14.3 seconds to 0.81 seconds. The new compiler...
+
+Read more: https://blog.master.dev/react-now-rusted-all-the-way-out/
+Score: 140 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
