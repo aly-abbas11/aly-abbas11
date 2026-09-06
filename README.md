@@ -51,14 +51,12 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 05, 2026
+### Tech update - September 06, 2026
 
-**The Rust React Compiler is now native in Vite**
+**Chrome again exempts Google from user site data settings**
 
-The transition to the Rust version of the React Compiler for the 1,036-file React Router codebase resulted in a significant speed increase, improving build times from 14.3 seconds to 0.81 seconds. The new compiler...
-
-Read more: https://blog.master.dev/react-now-rusted-all-the-way-out/
-Score: 140 points on Hacker News
+Read more: https://lapcatsoftware.com/articles/2026/9/1.html
+Score: 413 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
