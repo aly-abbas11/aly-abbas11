@@ -51,12 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 06, 2026
+### Tech update - September 07, 2026
 
-**Chrome again exempts Google from user site data settings**
+**It took a year to ship WebAssembly in Anubis**
 
-Read more: https://lapcatsoftware.com/articles/2026/9/1.html
-Score: 413 points on Hacker News
+After a year of work, hundreds of commits, 5 generations of pull requests, dozens of tests, rewriting part of Anubis in Rust, the first compiler bug of my career, and at least three times making my tower run out of ram...
+
+Read more: https://anubis.techaro.lol/blog/2026/anubis-wasm/
+Score: 289 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
