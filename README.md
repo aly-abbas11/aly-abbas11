@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 07, 2026
+### Tech update - September 08, 2026
 
-**It took a year to ship WebAssembly in Anubis**
+**Trusting-Trust Attack against an Entire Linux Distribution**
 
-After a year of work, hundreds of commits, 5 generations of pull requests, dozens of tests, rewriting part of Anubis in Rust, the first compiler bug of my career, and at least three times making my tower run out of ram...
+Ken Thompson's trusting-trust attack, in which a compromised compiler backdoors the programs it builds and reproduces the backdoor in subsequent rebuilds of itself, is widely regarded as a threat specific to compilers....
 
-Read more: https://anubis.techaro.lol/blog/2026/anubis-wasm/
-Score: 289 points on Hacker News
+Read more: https://arxiv.org/abs/2607.24888
+Score: 213 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
