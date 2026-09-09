@@ -51,14 +51,12 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 08, 2026
+### Tech update - September 09, 2026
 
-**Trusting-Trust Attack against an Entire Linux Distribution**
+**Tension wood: A 'muscle' that can both bend and straighten plants**
 
-Ken Thompson's trusting-trust attack, in which a compromised compiler backdoors the programs it builds and reproduces the backdoor in subsequent rebuilds of itself, is widely regarded as a threat specific to compilers....
-
-Read more: https://arxiv.org/abs/2607.24888
-Score: 213 points on Hacker News
+Read more: https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html
+Score: 123 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
