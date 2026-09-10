@@ -51,12 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 09, 2026
+### Tech update - September 10, 2026
 
-**Tension wood: A 'muscle' that can both bend and straighten plants**
+**Shopify acquires Tailwind**
 
-Read more: https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html
-Score: 123 points on Hacker News
+We're joining Shopify to give Tailwind a stable long-term home where it will be actively maintained for the millions of people who depend on it.
+
+Read more: https://tailwindcss.com/blog/tailwind-is-joining-shopify
+Score: 1044 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
