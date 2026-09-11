@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 10, 2026
+### Tech update - September 11, 2026
 
-**Shopify acquires Tailwind**
+**OpenAI Agents API**
 
-We're joining Shopify to give Tailwind a stable long-term home where it will be actively maintained for the millions of people who depend on it.
+Build durable cloud agents with a managed Codex harness.
 
-Read more: https://tailwindcss.com/blog/tailwind-is-joining-shopify
-Score: 1044 points on Hacker News
+Read more: https://developers.openai.com/api/docs/guides/agents-api/overview
+Score: 272 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
