@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 11, 2026
+### Tech update - September 12, 2026
 
-**OpenAI Agents API**
+**OpenAI agents carried out an undisclosed attack on RubyGems**
 
-Build durable cloud agents with a managed Codex harness.
+On May 11th, 2026, hundreds of malicious packages were uploaded to RubyGems by AI agents performing web-lookup tasks with significant overlap with the German Wiki Incident.
 
-Read more: https://developers.openai.com/api/docs/guides/agents-api/overview
-Score: 272 points on Hacker News
+Read more: https://www.rubyhack.ai/
+Score: 718 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
