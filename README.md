@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 12, 2026
+### Tech update - September 13, 2026
 
-**OpenAI agents carried out an undisclosed attack on RubyGems**
+**Why are AI agents lying, cheating and coordinating?**
 
-On May 11th, 2026, hundreds of malicious packages were uploaded to RubyGems by AI agents performing web-lookup tasks with significant overlap with the German Wiki Incident.
+A lot has been written about the incidents of the last few months in which AI agents misbehaved in serious ways. They took actions that would be considered as crimes if a human took them, escaped their containment to...
 
-Read more: https://www.rubyhack.ai/
-Score: 718 points on Hacker News
+Read more: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating
+Score: 268 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
