@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 13, 2026
+### Tech update - September 14, 2026
 
-**Why are AI agents lying, cheating and coordinating?**
+**HP ZGX Fury Is Now Orderable: GB300 Superchip, 748GB Unified Memory**
 
-A lot has been written about the incidents of the last few months in which AI agents misbehaved in serious ways. They took actions that would be considered as crimes if a human took them, escaped their containment to...
+HP ZGX Fury is orderable now: one GB300 superchip, 748GB unified memory, 20 PFLOPS FP4, and a Red Hat AI Factory plan for edge inference.
 
-Read more: https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating
-Score: 268 points on Hacker News
+Read more: https://www.storagereview.com/news/hp-zgx-fury-is-now-orderable-gb300-superchip-748gb-unified-memory-and-a-red-hat-ai-factory-plan-for-the-edge
+Score: 22 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
