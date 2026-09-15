@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 14, 2026
+### Tech update - September 15, 2026
 
-**HP ZGX Fury Is Now Orderable: GB300 Superchip, 748GB Unified Memory**
+**Principles for Fast Tokio Applications**
 
-HP ZGX Fury is orderable now: one GB300 superchip, 748GB unified memory, 20 PFLOPS FP4, and a Red Hat AI Factory plan for edge inference.
+A microscope for Tokio and Rust applications
 
-Read more: https://www.storagereview.com/news/hp-zgx-fury-is-now-orderable-gb300-superchip-748gb-unified-memory-and-a-red-hat-ai-factory-plan-for-the-edge
-Score: 22 points on Hacker News
+Read more: https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/
+Score: 221 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
