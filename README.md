@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 15, 2026
+### Tech update - September 16, 2026
 
-**Principles for Fast Tokio Applications**
+**Let's make quality the norm again**
 
-A microscope for Tokio and Rust applications
+A more circular economy is not only important for the environment. It can also strengthen consumer rights and improve societal resilience. In this report, we show how consumer policy can make circular choices easier,...
 
-Read more: https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/
-Score: 221 points on Hacker News
+Read more: https://www.forbrukerradet.no/short-life/
+Score: 406 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
