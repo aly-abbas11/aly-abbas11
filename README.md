@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 16, 2026
+### Tech update - September 17, 2026
 
-**Let's make quality the norm again**
+**Nvidia announces native GPU programming in Rust**
 
-A more circular economy is not only important for the environment. It can also strengthen consumer rights and improve societal resilience. In this report, we show how consumer policy can make circular choices easier,...
+In September 2026, NVIDIA announced it is leaning into native GPU programming in Rust. CUDA C++ and CUDA Python are mature, enterprise-grade toolchains, and NVIDIA will be growing and maturing CUDA…
 
-Read more: https://www.forbrukerradet.no/short-life/
-Score: 406 points on Hacker News
+Read more: https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/
+Score: 732 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
