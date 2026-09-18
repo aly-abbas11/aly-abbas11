@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 17, 2026
+### Tech update - September 18, 2026
 
-**Nvidia announces native GPU programming in Rust**
+**Bend – A language that blocks AI mistakes via proof, on CPU and GPU**
 
-In September 2026, NVIDIA announced it is leaning into native GPU programming in Rust. CUDA C++ and CUDA Python are mature, enterprise-grade toolchains, and NVIDIA will be growing and maturing CUDA…
+Bend: a fast language that blocks AI mistakes via proof.
 
-Read more: https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/
-Score: 732 points on Hacker News
+Read more: https://bend-lang.com/
+Score: 485 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
