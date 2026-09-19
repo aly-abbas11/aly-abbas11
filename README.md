@@ -51,14 +51,12 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 18, 2026
+### Tech update - September 19, 2026
 
-**Bend – A language that blocks AI mistakes via proof, on CPU and GPU**
+**Android 17 is the first since 3.x to add new APIs without releasing to the AOSP**
 
-Bend: a fast language that blocks AI mistakes via proof.
-
-Read more: https://bend-lang.com/
-Score: 485 points on Hacker News
+Read more: https://grapheneos.social/@GrapheneOS/117282080803799576
+Score: 851 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
