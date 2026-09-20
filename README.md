@@ -51,12 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 19, 2026
+### Tech update - September 20, 2026
 
-**Android 17 is the first since 3.x to add new APIs without releasing to the AOSP**
+**Spain Orders Blocks on Archive.today and Its Mirrors**
 
-Read more: https://grapheneos.social/@GrapheneOS/117282080803799576
-Score: 851 points on Hacker News
+No court ruling was required; only a complaint, a commission, and a censorship protocol built for speed.
+
+Read more: https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors
+Score: 149 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
