@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 20, 2026
+### Tech update - September 21, 2026
 
-**Spain Orders Blocks on Archive.today and Its Mirrors**
+**Apple iPhone 18 Pro Camera test**
 
-No court ruling was required; only a complaint, a commission, and a censorship protocol built for speed.
+Discover the Apple iPhone 18 Pro exceptional camera performance with a score of 172, featuring improved dynamic range, stabilization, and variable aperture.
 
-Read more: https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors
-Score: 149 points on Hacker News
+Read more: https://www.dxomark.com/apple-iphone-18-pro-camera-test/
+Score: 187 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
