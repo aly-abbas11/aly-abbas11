@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 21, 2026
+### Tech update - September 22, 2026
 
-**Apple iPhone 18 Pro Camera test**
+**I said no and Apple said yes**
 
-Discover the Apple iPhone 18 Pro exceptional camera performance with a score of 172, featuring improved dynamic range, stabilization, and variable aperture.
+The one where Apple decides consent doesn’t matter anymore.
 
-Read more: https://www.dxomark.com/apple-iphone-18-pro-camera-test/
-Score: 187 points on Hacker News
+Read more: https://dbushell.com/2026/09/22/apple-intelligence/
+Score: 252 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
