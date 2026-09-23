@@ -51,14 +51,12 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 22, 2026
+### Tech update - September 23, 2026
 
-**I said no and Apple said yes**
+**Pentagon says overreliance on AI contributed to missile strike on Iran school**
 
-The one where Apple decides consent doesn’t matter anymore.
-
-Read more: https://dbushell.com/2026/09/22/apple-intelligence/
-Score: 252 points on Hacker News
+Read more: https://www.bloomberg.com/graphics/2026-iran-school-attack/
+Score: 679 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
