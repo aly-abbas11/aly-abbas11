@@ -51,12 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 23, 2026
+### Tech update - September 24, 2026
 
-**Pentagon says overreliance on AI contributed to missile strike on Iran school**
+**Linux support is coming to Snapdragon X2 Series**
 
-Read more: https://www.bloomberg.com/graphics/2026-iran-school-attack/
-Score: 679 points on Hacker News
+Explore the agentic AI PCs, Googlebook laptops, Linux support and partner devices powered by Snapdragon unveiled at Snapdragon Summit 2026.
+
+Read more: https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux
+Score: 446 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
