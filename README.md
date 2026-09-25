@@ -51,14 +51,12 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 24, 2026
+### Tech update - September 25, 2026
 
-**Linux support is coming to Snapdragon X2 Series**
+**Using LLMs to trace alchemical knowledge and decode 17th century letters**
 
-Explore the agentic AI PCs, Googlebook laptops, Linux support and partner devices powered by Snapdragon unveiled at Snapdragon Summit 2026.
-
-Read more: https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux
-Score: 446 points on Hacker News
+Read more: https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical
+Score: 138 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
