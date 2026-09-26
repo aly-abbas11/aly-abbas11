@@ -51,12 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 25, 2026
+### Tech update - September 26, 2026
 
-**Using LLMs to trace alchemical knowledge and decode 17th century letters**
+**Ollaya – Ollama for open-source, Jev-style decision models**
 
-Read more: https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical
-Score: 138 points on Hacker News
+Ollaya downloads and serves open decision models on your own machine. Typed, calibrated answers in milliseconds, private and open source.
+
+Read more: https://ollaya.dev/
+Score: 473 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
