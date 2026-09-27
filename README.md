@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 26, 2026
+### Tech update - September 27, 2026
 
-**Ollaya – Ollama for open-source, Jev-style decision models**
+**How to keep enjoying programming in a world of LLMs**
 
-Ollaya downloads and serves open decision models on your own machine. Typed, calibrated answers in milliseconds, private and open source.
+Are you steering towards AI burnout? Afraid of loosing your job to someone with little programming skills, no aspirations to quality, and a huge Claude account? Disappointed about the code quality in your projects, or...
 
-Read more: https://ollaya.dev/
-Score: 473 points on Hacker News
+Read more: https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705
+Score: 242 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
