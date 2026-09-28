@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 27, 2026
+### Tech update - September 28, 2026
 
-**How to keep enjoying programming in a world of LLMs**
+**Thinking fast and slow in AI: The role of metacognition (2021)**
 
-Are you steering towards AI burnout? Afraid of loosing your job to someone with little programming skills, no aspirations to quality, and a huge Claude account? Disappointed about the code quality in your projects, or...
+Abstract page for arXiv paper 2110.01834: Thinking Fast and Slow in AI: the Role of Metacognition
 
-Read more: https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705
-Score: 242 points on Hacker News
+Read more: https://arxiv.org/abs/2110.01834
+Score: 131 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
