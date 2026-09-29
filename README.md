@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 28, 2026
+### Tech update - September 29, 2026
 
-**Thinking fast and slow in AI: The role of metacognition (2021)**
+**Nvidia wants to put a watchdog chip next to every AI agent**
 
-Abstract page for arXiv paper 2110.01834: Thinking Fast and Slow in AI: the Role of Metacognition
+Nvidia says its new software could have prevented OpenAI's Hugging Face incident.
 
-Read more: https://arxiv.org/abs/2110.01834
-Score: 131 points on Hacker News
+Read more: https://www.cnbc.com/2026/09/28/nvidia-releases.html
+Score: 197 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
