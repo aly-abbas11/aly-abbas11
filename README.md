@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 29, 2026
+### Tech update - September 30, 2026
 
-**Nvidia wants to put a watchdog chip next to every AI agent**
+**Testing WebGPU data layouts with Facet**
 
-Nvidia says its new software could have prevented OpenAI's Hugging Face incident.
+Using Facet
 
-Read more: https://www.cnbc.com/2026/09/28/nvidia-releases.html
-Score: 197 points on Hacker News
+Read more: https://www.mattkeeter.com/blog/2026-08-23-wgpu-facet/
+Score: 52 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
