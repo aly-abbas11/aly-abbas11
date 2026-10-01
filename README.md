@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - September 30, 2026
+### Tech update - October 01, 2026
 
-**Testing WebGPU data layouts with Facet**
+**GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design**
 
-Using Facet
+Companies form strategic partnership to dramatically advance and accelerate semiconductor innovation News Highlights: Companies sign multi-year agreement to collaborate as preferred partners to...
 
-Read more: https://www.mattkeeter.com/blog/2026-08-23-wgpu-facet/
-Score: 52 points on Hacker News
+Read more: https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design
+Score: 62 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
