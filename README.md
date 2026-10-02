@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - October 01, 2026
+### Tech update - October 02, 2026
 
-**GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design**
+**Clef: Open-weight decision models, and new RL fine-tuning platform**
 
-Companies form strategic partnership to dramatically advance and accelerate semiconductor innovation News Highlights: Companies sign multi-year agreement to collaborate as preferred partners to...
+We are introducing Clef and Clef-flash, open-source decision models hosted on Workers AI for high-speed classification and agentic workflows. Also launching: a new reinforcement learning platform that allows developers...
 
-Read more: https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design
-Score: 62 points on Hacker News
+Read more: https://blog.cloudflare.com/clef-decision-models/
+Score: 540 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
