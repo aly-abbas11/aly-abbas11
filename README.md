@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - October 02, 2026
+### Tech update - October 03, 2026
 
-**Clef: Open-weight decision models, and new RL fine-tuning platform**
+**Show HN: Giving Opus 5.5 a simulated paint canvas**
 
-We are introducing Clef and Clef-flash, open-source decision models hosted on Workers AI for high-speed classification and agentic workflows. Also launching: a new reinforcement learning platform that allows developers...
+Paintings by AI models: programs run through a simulation of oil paint.
 
-Read more: https://blog.cloudflare.com/clef-decision-models/
-Score: 540 points on Hacker News
+Read more: https://stillwet.art/
+Score: 287 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
