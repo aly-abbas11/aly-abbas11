@@ -51,14 +51,12 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - October 03, 2026
+### Tech update - October 04, 2026
 
-**Show HN: Giving Opus 5.5 a simulated paint canvas**
+**I quit OpenAI because its culture is broken**
 
-Paintings by AI models: programs run through a simulation of oil paint.
-
-Read more: https://stillwet.art/
-Score: 287 points on Hacker News
+Read more: https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA
+Score: 266 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
