@@ -51,12 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - October 04, 2026
+### Tech update - October 05, 2026
 
-**I quit OpenAI because its culture is broken**
+**Turn off Apple Intelligence on macOS 27 and get its disk space back**
 
-Read more: https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA
-Score: 266 points on Hacker News
+Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible. - omlahore/RemoveMacAI
+
+Read more: https://github.com/omlahore/RemoveMacAI
+Score: 670 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
