@@ -51,14 +51,12 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - October 05, 2026
+### Tech update - October 06, 2026
 
-**Turn off Apple Intelligence on macOS 27 and get its disk space back**
+**Dust: Pretraining Transformers Without Backpropagation**
 
-Turn off Apple Intelligence on macOS 27 and get its disk space back. One command, fully reversible. - omlahore/RemoveMacAI
-
-Read more: https://github.com/omlahore/RemoveMacAI
-Score: 670 points on Hacker News
+Read more: https://qlabs.sh/research/dust
+Score: 230 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
