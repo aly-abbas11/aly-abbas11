@@ -51,12 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - October 06, 2026
+### Tech update - October 07, 2026
 
-**Dust: Pretraining Transformers Without Backpropagation**
+**OpenTPU – An open-source AI accelerator, developed by AI**
 
-Read more: https://qlabs.sh/research/dust
-Score: 230 points on Hacker News
+An open-source AI accelerator, developed by AI: RTL, ISA, simulator, compiler and profiler in one repo. Runs Qwen3, LFM2.5 and Qwen3.5 on a Kintex-7 PCIe card. - FeSens/openTPU
+
+Read more: https://github.com/FeSens/openTPU
+Score: 309 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
