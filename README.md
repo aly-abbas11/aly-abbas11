@@ -51,12 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - October 08, 2026
+### Tech update - October 09, 2026
 
-**Sharing AI progress in mathematics**
+**Man discovers his parents' coffee machine used 1TB of data in 10 days**
 
-Read more: https://openai.com/index/sharing-ai-progress-in-mathematics/
-Score: 1288 points on Hacker News
+The man said they discovered that their parents’ coffee maker had generated far more traffic than they expected.
+
+Read more: https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/
+Score: 768 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
