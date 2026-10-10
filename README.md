@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - October 09, 2026
+### Tech update - October 10, 2026
 
-**Man discovers his parents' coffee machine used 1TB of data in 10 days**
+**Pointing AI at archives found a forgotten meteorite, lost rhinos, and more**
 
-The man said they discovered that their parents’ coffee maker had generated far more traffic than they expected.
+How I used AI to investigate millions of historical records and surfaced a forgotten meteorite report, three lost rhinos, and unrecorded volcano eruptions.
 
-Read more: https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/
-Score: 768 points on Hacker News
+Read more: https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/
+Score: 153 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
