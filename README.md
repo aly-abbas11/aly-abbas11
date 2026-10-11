@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - October 10, 2026
+### Tech update - October 11, 2026
 
-**Pointing AI at archives found a forgotten meteorite, lost rhinos, and more**
+**Mxc: Microsoft Execution Containers version 1.0.0**
 
-How I used AI to investigate millions of historical records and surfaced a forgotten meteorite report, three lost rhinos, and unrecorded volcano eruptions.
+Agents are unlocking enormous productivity gains for customers, but their ability to work across files, networks, and applications can introduce new security risks. This can leave customers feeling like they only have...
 
-Read more: https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/
-Score: 153 points on Hacker News
+Read more: https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/
+Score: 197 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
