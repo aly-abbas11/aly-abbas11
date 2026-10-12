@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - October 11, 2026
+### Tech update - October 12, 2026
 
-**Mxc: Microsoft Execution Containers version 1.0.0**
+**Show HN: PS2 games statically recompiled to WebAssembly**
 
-Agents are unlocking enormous productivity gains for customers, but their ability to work across files, networks, and applications can introduce new security risks. This can leave customers feeling like they only have...
+PS2 games in the browser: static recompilation to WebAssembly with a native runtime - snuri00/ps2-web-recomp
 
-Read more: https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/
-Score: 197 points on Hacker News
+Read more: https://github.com/snuri00/ps2-web-recomp
+Score: 135 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
