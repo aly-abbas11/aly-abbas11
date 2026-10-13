@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - October 12, 2026
+### Tech update - October 13, 2026
 
-**Show HN: PS2 games statically recompiled to WebAssembly**
+**Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X**
 
-PS2 games in the browser: static recompilation to WebAssembly with a native runtime - snuri00/ps2-web-recomp
+Intel GPU D270 is an inference-optimized data center GPU built for agentic AI, long contexts, and high-concurrency serving at practical power and cost.
 
-Read more: https://github.com/snuri00/ps2-web-recomp
-Score: 135 points on Hacker News
+Read more: https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html
+Score: 269 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
