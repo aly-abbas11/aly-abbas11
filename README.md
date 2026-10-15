@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - October 14, 2026
+### Tech update - October 15, 2026
 
-**I let an AI run my startup for a week**
+**Aidlc: Adaptive workflow steering rules for AI coding agents**
 
-Reflections on using Grok Bot for a week, exploring its potential and challenges as a solo entrepreneur.
+AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents - awslabs/aidlc-workflows
 
-Read more: https://daily.tinyprojects.dev/221
-Score: 42 points on Hacker News
+Read more: https://github.com/awslabs/aidlc-workflows
+Score: 10 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
