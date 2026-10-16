@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - October 15, 2026
+### Tech update - October 16, 2026
 
-**Aidlc: Adaptive workflow steering rules for AI coding agents**
+**Using AI to reverse engineer hardware**
 
-AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding agents - awslabs/aidlc-workflows
+After my mother passed away I ended up with a big box full of old film negatives containing photos from childhood family trips and similar. So I decided to buy a negative photo scanner and found that the Plustek 8200i...
 
-Read more: https://github.com/awslabs/aidlc-workflows
-Score: 10 points on Hacker News
+Read more: https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/
+Score: 202 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
