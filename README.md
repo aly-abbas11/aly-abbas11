@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - October 17, 2026
+### Tech update - October 18, 2026
 
-**90% of US working hours are spent on tasks not covered well by AI benchmarks**
+**Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping**
 
-The US Benchmark Map places AI benchmarks across the American economy, measuring which parts of the labor force are covered by unsaturated, public, agentic benchmarks.
+A Git hook for agent-assisted development. Before your agent’s code ships, Sphinx asks you a question about what it actually does.
 
-Read more: https://www.mercor.com/research/labor-index/benchmark-map/
-Score: 507 points on Hacker News
+Read more: https://sphinx-six-theta.vercel.app/
+Score: 138 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
