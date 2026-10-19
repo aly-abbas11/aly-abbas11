@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - October 18, 2026
+### Tech update - October 19, 2026
 
-**Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping**
+**Linux 7.3 Released**
 
-A Git hook for agent-assisted development. Before your agent’s code ships, Sphinx asks you a question about what it actually does.
+Linus Torvalds has released the 7.3 kernel, as expected.   	It
 
-Read more: https://sphinx-six-theta.vercel.app/
-Score: 138 points on Hacker News
+Read more: https://lwn.net/Articles/1101143/
+Score: 323 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
