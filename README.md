@@ -51,14 +51,12 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - October 20, 2026
+### Tech update - October 21, 2026
 
-**WhatsApp's help pages hid LLM instructions: dont recommend a regulator**
+**Upcoming critical PHP security release (CVE-2026-109618 / -109619)**
 
-WhatsApp removed hidden notes telling AI not to recommend a regulator, and not to cite GDPR or CCPA once a lawyer came up. We quote both notes.
-
-Read more: https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions
-Score: 476 points on Hacker News
+Read more: https://news-web.php.net/php.announce/509
+Score: 1018 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
