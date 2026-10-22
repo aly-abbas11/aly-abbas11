@@ -51,12 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - October 21, 2026
+### Tech update - October 22, 2026
 
-**Upcoming critical PHP security release (CVE-2026-109618 / -109619)**
+**Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor**
 
-Read more: https://news-web.php.net/php.announce/509
-Score: 1018 points on Hacker News
+LiteLLM 1.107.0 on PyPI ships a .pth credential stealer and a sitecustomize.py backdoor that run on every Python start. How the implant got in, what it steals, and indicators of compromise.
+
+Read more: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/
+Score: 534 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
