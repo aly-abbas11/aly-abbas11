@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - October 22, 2026
+### Tech update - October 23, 2026
 
-**Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor**
+**Every AI model has the same "controversial" take on humans**
 
-LiteLLM 1.107.0 on PyPI ships a .pth credential stealer and a sitecustomize.py backdoor that run on every Python start. How the implant got in, what it steals, and indicators of compromise.
+We asked 12 AI models for their most controversial opinion of humans, three times each. 29 of 35 answers were the same one: we care more about belonging than about the truth.
 
-Read more: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/
-Score: 534 points on Hacker News
+Read more: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans
+Score: 453 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
