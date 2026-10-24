@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - October 23, 2026
+### Tech update - October 24, 2026
 
-**Every AI model has the same "controversial" take on humans**
+**Air Purifiers as White Noise Machines**
 
-We asked 12 AI models for their most controversial opinion of humans, three times each. 29 of 35 answers were the same one: we care more about belonging than about the truth.
+White noise machines are widely used for sound masking, increasing privacy in offices and helping people sleep. The  classic approach is a fan in a box, though in the past ten years people have mostly switched over to...
 
-Read more: https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans
-Score: 453 points on Hacker News
+Read more: https://www.jefftk.com/p/air-purifiers-as-white-noise-machines
+Score: 133 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
