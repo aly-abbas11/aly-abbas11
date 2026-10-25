@@ -51,14 +51,12 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - October 24, 2026
+### Tech update - October 25, 2026
 
-**Air Purifiers as White Noise Machines**
+**The Goose Programming Language**
 
-White noise machines are widely used for sound masking, increasing privacy in offices and helping people sleep. The  classic approach is a fan in a box, though in the past ten years people have mostly switched over to...
-
-Read more: https://www.jefftk.com/p/air-purifiers-as-white-noise-machines
-Score: 133 points on Hacker News
+Read more: https://aardappel.github.io/goose/
+Score: 424 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
