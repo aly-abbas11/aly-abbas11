@@ -51,12 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - October 25, 2026
+### Tech update - October 26, 2026
 
-**The Goose Programming Language**
+**OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?**
 
-Read more: https://aardappel.github.io/goose/
-Score: 424 points on Hacker News
+What is “the true cost of a token”?
+
+Read more: https://minimaxir.com/2026/10/cheap-llms/
+Score: 359 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
