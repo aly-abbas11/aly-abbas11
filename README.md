@@ -51,14 +51,12 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - October 26, 2026
+### Tech update - October 27, 2026
 
-**OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?**
+**Blaise Pascal invented fixed route public transport (2024)**
 
-What is “the true cost of a token”?
-
-Read more: https://minimaxir.com/2026/10/cheap-llms/
-Score: 359 points on Hacker News
+Read more: https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html
+Score: 295 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
