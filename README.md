@@ -51,12 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - October 27, 2026
+### Tech update - October 28, 2026
 
-**Blaise Pascal invented fixed route public transport (2024)**
+**Python's experimental JIT to be removed**
 
-Read more: https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html
-Score: 295 points on Hacker News
+Python
+
+Read more: https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/
+Score: 531 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
