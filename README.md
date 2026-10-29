@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - October 28, 2026
+### Tech update - October 29, 2026
 
-**Python's experimental JIT to be removed**
+**Forging a Microsoft Edge Full Chain with Logic Bugs Only**
 
-Python
+This is what I built for Pwn2Own Berlin 2026 — a completely handmade, logic-only Microsoft Edge Full Chain, with no memory corruption, and no AI at all! 🔥
 
-Read more: https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/
-Score: 531 points on Hacker News
+Read more: https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/
+Score: 124 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
