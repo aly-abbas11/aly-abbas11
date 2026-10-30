@@ -51,14 +51,12 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - October 29, 2026
+### Tech update - October 30, 2026
 
-**Forging a Microsoft Edge Full Chain with Logic Bugs Only**
+**Backdoors in official Claude Code extensions**
 
-This is what I built for Pwn2Own Berlin 2026 — a completely handmade, logic-only Microsoft Edge Full Chain, with no memory corruption, and no AI at all! 🔥
-
-Read more: https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/
-Score: 124 points on Hacker News
+Read more: https://cyberplace.social/@GossiTheDog/117528831681803563
+Score: 249 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
