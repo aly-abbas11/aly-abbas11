@@ -51,12 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - October 30, 2026
+### Tech update - October 31, 2026
 
-**Backdoors in official Claude Code extensions**
+**Cisco gives engineer unlimited AI tokens to rewrite legacy code**
 
-Read more: https://cyberplace.social/@GossiTheDog/117528831681803563
-Score: 249 points on Hacker News
+Meet Paddy, the 27-year-old Cisco’s president calls an “energizer bunny.” He’s been given unlimited AI tokens and told to “go nuts.”
+
+Read more: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/
+Score: 209 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
