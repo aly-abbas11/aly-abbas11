@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - October 31, 2026
+### Tech update - November 01, 2026
 
-**Cisco gives engineer unlimited AI tokens to rewrite legacy code**
+**The AI cost of JavaScript frameworks**
 
-Meet Paddy, the 27-year-old Cisco’s president calls an “energizer bunny.” He’s been given unlimited AI tokens and told to “go nuts.”
+One of my pet peeves with the web development community is that so many of the decisions we make are vibes-based. Frameworks are “blazing fast,” tools will…
 
-Read more: https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/
-Score: 209 points on Hacker News
+Read more: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/
+Score: 130 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
