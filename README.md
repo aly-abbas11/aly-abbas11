@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - November 01, 2026
+### Tech update - November 02, 2026
 
-**The AI cost of JavaScript frameworks**
+**Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust**
 
-One of my pet peeves with the web development community is that so many of the decisions we make are vibes-based. Frameworks are “blazing fast,” tools will…
+Fast, robust, accurate diffing . Contribute to ivankovic/omnidiff development by creating an account on GitHub.
 
-Read more: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/
-Score: 130 points on Hacker News
+Read more: https://github.com/ivankovic/omnidiff
+Score: 290 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
