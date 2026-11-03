@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - November 02, 2026
+### Tech update - November 03, 2026
 
-**Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust**
+**Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app**
 
-Fast, robust, accurate diffing . Contribute to ivankovic/omnidiff development by creating an account on GitHub.
+Mo is Momentic
 
-Read more: https://github.com/ivankovic/omnidiff
-Score: 290 points on Hacker News
+Read more: https://momentic.ai/
+Score: 151 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
