@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - November 03, 2026
+### Tech update - November 04, 2026
 
-**Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app**
+**Qwen 3.8 27B on my laptop can interpret model weights, too**
 
-Mo is Momentic
+Yesterday’s hot paper was Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, …
 
-Read more: https://momentic.ai/
-Score: 151 points on Hacker News
+Read more: https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/
+Score: 673 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
