@@ -51,14 +51,12 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - November 04, 2026
+### Tech update - November 05, 2026
 
-**Qwen 3.8 27B on my laptop can interpret model weights, too**
+**Ask HN: What's your current AI agentic setup?**
 
-Yesterday’s hot paper was Sparks of Weight-Space Programming: LLMs can natively read &amp; write neural network weights by Rikiya Takehi, Jayden Teoh, Alex Zhang, and Omar Khattab. The paper (OK, …
-
-Read more: https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/
-Score: 673 points on Hacker News
+Read more: https://news.ycombinator.com/item?id=50366117
+Score: 426 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
