@@ -51,12 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - November 05, 2026
+### Tech update - November 06, 2026
 
-**Ask HN: What's your current AI agentic setup?**
+**Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue**
 
-Read more: https://news.ycombinator.com/item?id=50366117
-Score: 426 points on Hacker News
+Cuban says he has been seeing his own face in scammy AI-generated ads for nonexistent diabetes cures.
+
+Read more: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html
+Score: 422 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
