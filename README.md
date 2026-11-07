@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - November 06, 2026
+### Tech update - November 07, 2026
 
-**Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue**
+**GitHub's new Git storage architecture**
 
-Cuban says he has been seeing his own face in scammy AI-generated ads for nonexistent diabetes cures.
+GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works.
 
-Read more: https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html
-Score: 422 points on Hacker News
+Read more: https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/
+Score: 163 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
