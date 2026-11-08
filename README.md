@@ -51,14 +51,12 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - November 07, 2026
+### Tech update - November 08, 2026
 
-**GitHub's new Git storage architecture**
+**The end of Microsoft Research's AI Frontiers group**
 
-GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works.
-
-Read more: https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/
-Score: 163 points on Hacker News
+Read more: https://hunch.net/?p=13764006
+Score: 470 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
