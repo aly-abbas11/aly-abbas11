@@ -51,12 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - November 08, 2026
+### Tech update - November 09, 2026
 
-**The end of Microsoft Research's AI Frontiers group**
+**KetchUp – Open-source SketchUp alternative built with Rust and WebGPU**
 
-Read more: https://hunch.net/?p=13764006
-Score: 470 points on Hacker News
+Free, open-source 3D modeling for woodworking and furniture design. Plan shelves, tables, and cabinets with precise dimensions on Windows, macOS, Linux, or in your browser.
+
+Read more: https://ketchup3d.github.io/app/
+Score: 645 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
