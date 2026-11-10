@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - November 09, 2026
+### Tech update - November 10, 2026
 
-**KetchUp – Open-source SketchUp alternative built with Rust and WebGPU**
+**Foldable Flight: The Best Paper Airplanes**
 
-Free, open-source 3D modeling for woodworking and furniture design. Plan shelves, tables, and cabinets with precise dimensions on Windows, macOS, Linux, or in your browser.
+The world
 
-Read more: https://ketchup3d.github.io/app/
-Score: 645 points on Hacker News
+Read more: https://www.foldableflight.com
+Score: 1109 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
