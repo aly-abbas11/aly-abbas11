@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - November 10, 2026
+### Tech update - November 11, 2026
 
-**Foldable Flight: The Best Paper Airplanes**
+**Synaptics patent claims stop work on DisplayLink drivers**
 
-The world
+Mike Lothian owns a docking station (or dock) that uses a DisplayLink chipset that had, at leas [...]
 
-Read more: https://www.foldableflight.com
-Score: 1109 points on Hacker News
+Read more: https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/
+Score: 434 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
