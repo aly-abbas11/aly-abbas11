@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - November 12, 2026
+### Tech update - November 13, 2026
 
-**Gemini Decisions API**
+**Elevated errors on claude.ai, Claude Code, and platform.claude.com**
 
-Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.
+Claude's Status Page - Elevated errors on claude.ai, Claude Code, and platform.claude.com.
 
-Read more: https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/
-Score: 503 points on Hacker News
+Read more: https://status.claude.com/incidents/nn11wk485zfn
+Score: 333 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
