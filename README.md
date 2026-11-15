@@ -51,14 +51,12 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - November 14, 2026
+### Tech update - November 15, 2026
 
-**After 600 experiments, here's what I discovered about JEPA world models**
+**How did Woz write the Apple 1 BASIC before building the computer?**
 
-There
-
-Read more: https://haddyalchaer.com/jepa
-Score: 273 points on Hacker News
+Read more: https://retrocomputing.stackexchange.com/questions/17957
+Score: 248 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
