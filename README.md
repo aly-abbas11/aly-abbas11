@@ -51,12 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - November 15, 2026
+### Tech update - November 16, 2026
 
-**How did Woz write the Apple 1 BASIC before building the computer?**
+**Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack**
 
-Read more: https://retrocomputing.stackexchange.com/questions/17957
-Score: 248 points on Hacker News
+Where to Download  Tarballs Gitlab Repository Bug Report  Changes Below are the major changes of the released versions and links to more detailed release notes.  Stable Today, we are releasing 0.4.9.17, which includes a...
+
+Read more: https://forum.torproject.org/t/security-release-0-4-9-17/22454
+Score: 203 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
