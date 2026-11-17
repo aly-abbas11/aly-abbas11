@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - November 16, 2026
+### Tech update - November 17, 2026
 
-**Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack**
+**VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012**
 
-Where to Download  Tarballs Gitlab Repository Bug Report  Changes Below are the major changes of the released versions and links to more detailed release notes.  Stable Today, we are releasing 0.4.9.17, which includes a...
+A visual archive of the things we made in Visual Basic.
 
-Read more: https://forum.torproject.org/t/security-release-0-4-9-17/22454
-Score: 203 points on Hacker News
+Read more: https://visualbasic.world/
+Score: 149 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
