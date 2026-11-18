@@ -51,14 +51,12 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - November 17, 2026
+### Tech update - November 18, 2026
 
-**VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012**
+**Highly classified US national security communications network goes down**
 
-A visual archive of the things we made in Visual Basic.
-
-Read more: https://visualbasic.world/
-Score: 149 points on Hacker News
+Read more: https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down
+Score: 647 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
