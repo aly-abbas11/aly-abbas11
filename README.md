@@ -51,12 +51,12 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - November 18, 2026
+### Tech update - November 19, 2026
 
-**Highly classified US national security communications network goes down**
+**Show HN: Mastra Factory, the open-source software factory we use to build Mastra**
 
-Read more: https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down
-Score: 647 points on Hacker News
+Read more: https://news.ycombinator.com/item?id=50548660
+Score: 120 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
