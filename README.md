@@ -51,12 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - November 19, 2026
+### Tech update - November 20, 2026
 
-**Show HN: Mastra Factory, the open-source software factory we use to build Mastra**
+**Frostbite: A new CPU architecture discovered, designed and verified by AI**
 
-Read more: https://news.ycombinator.com/item?id=50548660
-Score: 120 points on Hacker News
+Frostbite is a general-purpose CPU built around interaction nets, discovered, designed, and verified end-to-end by our AI systems, reaching 4.59x the performance-per-watt of a modern superscalar (dual-issue, in-order)...
+
+Read more: https://architectlabs.com/blog/frostbite
+Score: 360 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
