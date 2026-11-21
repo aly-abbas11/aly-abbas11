@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - November 20, 2026
+### Tech update - November 21, 2026
 
-**Frostbite: A new CPU architecture discovered, designed and verified by AI**
+**Language Models Can Rewrite Their Own Weights**
 
-Frostbite is a general-purpose CPU built around interaction nets, discovered, designed, and verified end-to-end by our AI systems, reaching 4.59x the performance-per-watt of a modern superscalar (dual-issue, in-order)...
+A language model is trained once and frozen. Making it better takes another training run, or a prompt, a harness or extra computation at inference that is gone once the task ends. We show a third way: to our knowledge...
 
-Read more: https://architectlabs.com/blog/frostbite
-Score: 360 points on Hacker News
+Read more: https://arxiv.org/abs/2611.21885
+Score: 440 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
