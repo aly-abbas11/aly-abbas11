@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - November 21, 2026
+### Tech update - November 22, 2026
 
-**Language Models Can Rewrite Their Own Weights**
+**Advice for the next 100 Rust GUIs**
 
-A language model is trained once and frozen. Making it better takes another training run, or a prompt, a harness or extra computation at inference that is gone once the task ends. We show a third way: to our knowledge...
+Advice for the next 100 Rust GUIs
 
-Read more: https://arxiv.org/abs/2611.21885
-Score: 440 points on Hacker News
+Read more: https://linebender.org/blog/next-100-guis/
+Score: 211 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
