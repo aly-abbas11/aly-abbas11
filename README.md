@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - November 22, 2026
+### Tech update - November 23, 2026
 
-**Advice for the next 100 Rust GUIs**
+**XNU Linux: Full OS X GUI Userspace on Linux**
 
-Advice for the next 100 Rust GUIs
+XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux) - AFK-surf/xnulinux
 
-Read more: https://linebender.org/blog/next-100-guis/
-Score: 211 points on Hacker News
+Read more: https://github.com/AFK-surf/xnulinux
+Score: 528 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
