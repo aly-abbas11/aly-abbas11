@@ -51,14 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - November 23, 2026
+### Tech update - November 24, 2026
 
-**XNU Linux: Full OS X GUI Userspace on Linux**
+**Tidal bans AI-generated music**
 
-XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux) - AFK-surf/xnulinux
+The music streaming service Tidal said Tuesday that it would ban tracks it believes are completely AI-generated starting next month,
 
-Read more: https://github.com/AFK-surf/xnulinux
-Score: 528 points on Hacker News
+Read more: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/
+Score: 177 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
