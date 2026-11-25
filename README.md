@@ -51,14 +51,12 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - November 24, 2026
+### Tech update - November 25, 2026
 
-**Tidal bans AI-generated music**
+**Models Can Communicate via Inference Servers Despite Being Sandboxed**
 
-The music streaming service Tidal said Tuesday that it would ban tracks it believes are completely AI-generated starting next month,
-
-Read more: https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/
-Score: 177 points on Hacker News
+Read more: https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being
+Score: 380 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
