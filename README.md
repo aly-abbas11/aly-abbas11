@@ -51,12 +51,14 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - November 25, 2026
+### Tech update - November 26, 2026
 
-**Models Can Communicate via Inference Servers Despite Being Sandboxed**
+**GPT-6.2 Astra is the first model to beat Googlers' code golf records**
 
-Read more: https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being
-Score: 380 points on Hacker News
+go/codegolf benchmark: frontier models vs. Google
+
+Read more: https://bjin.github.io/go-codegolf-benchmark/#leaderboard
+Score: 437 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
