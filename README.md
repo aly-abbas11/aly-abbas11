@@ -51,14 +51,12 @@
 <div align="center">
 
 <!-- TECH_UPDATE_START -->
-### Tech update - November 26, 2026
+### Tech update - November 27, 2026
 
-**GPT-6.2 Astra is the first model to beat Googlers' code golf records**
+**US Air Force's cloud computing platform hacked**
 
-go/codegolf benchmark: frontier models vs. Google
-
-Read more: https://bjin.github.io/go-codegolf-benchmark/#leaderboard
-Score: 437 points on Hacker News
+Read more: https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163
+Score: 156 points on Hacker News
 <!-- TECH_UPDATE_END -->
 
 <br/>
